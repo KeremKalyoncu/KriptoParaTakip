@@ -57,3 +57,12 @@ Değişikliklerinizi yapın ve commit edin.
 
 Pull request oluşturun.
 
+# GUİ
+
+Alttaki linkten arayüzü görebilirsiniz 
+
+https://www.youtube.com/watch?v=_h93sA34Nys
+
+# Yazarlar
+
+Kerem Kalyoncu - Proje sahibi ve geliştirici.
